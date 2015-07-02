@@ -1,0 +1,8 @@
+﻿<asp:Button runat="server" 
+	BorderColor="darkgray" 
+	Font-Bold="true" 
+	BorderWidth="1px" 
+    BorderStyle="outset"
+	ForeColor="Black" 
+	BackColor="gainsboro"
+/>

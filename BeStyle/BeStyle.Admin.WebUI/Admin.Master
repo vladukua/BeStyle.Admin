@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="BeStyle.Admin.WebUI.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>BeStyle</title>
+    <script src="Script/jquery-1.11.3.min.js"></script>
+    <link href="Content/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmMain" runat="server">
+        <div>
+            <asp:Button ID="btnUsers" runat="server" Text="Users" OnClick="btnUsers_Click" />
+            <asp:Button ID="btnAdmins" runat="server" Text="Administrators" />
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

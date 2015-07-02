@@ -1,0 +1,10 @@
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.Repositories\bin\Debug\BeStyle.Admin.Repositories.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.Repositories\bin\Debug\BeStyle.Admin.Repositories.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.Repositories\bin\Debug\BeStyle.Admin.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.Repositories\bin\Debug\BeStyle.Admin.Repositories.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.csprojResolveAssemblyReference.cache
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.Repositories\obj\Debug\BeStyle.Admin.Repositories.pdb

@@ -1,0 +1,27 @@
+USE BeStyleDB;
+
+GO
+
+
+BEGIN
+	DROP TABLE tblUserCredential;
+END;
+
+
+BEGIN
+	DROP TABLE tblUser;
+END;	
+
+
+BEGIN
+	DROP TABLE tblUserCredential;
+END;
+
+
+BEGIN
+	DROP TABLE tblUser;
+END;
+
+BEGIN
+	DROP DATABASE BeStyleDB;
+END;

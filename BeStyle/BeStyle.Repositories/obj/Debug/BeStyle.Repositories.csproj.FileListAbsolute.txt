@@ -1,0 +1,4 @@
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Repositories\obj\Debug\BeStyle.Repositories.pdb

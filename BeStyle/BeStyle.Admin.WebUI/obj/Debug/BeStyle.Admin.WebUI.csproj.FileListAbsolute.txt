@@ -1,0 +1,18 @@
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll.config
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.pdb
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.csprojResolveAssemblyReference.cache
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.dll
+c:\users\frost\documents\visual studio 2013\Projects\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll.config
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.pdb
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.csprojResolveAssemblyReference.cache
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.dll
+D:\Андрій\ПРОГРАМУВАННЯ\EPAM lab\TEEM PROJECT\BeStyle.Admin-master\BeStyle.Admin\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll.config
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Admin.WebUI.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\RoleBasedFormAuthentication.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.pdb
