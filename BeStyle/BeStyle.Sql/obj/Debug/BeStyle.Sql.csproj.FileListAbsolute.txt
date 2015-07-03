@@ -1,0 +1,2 @@
+C:\Users\Vitaly\Downloads\BeStyle.Admin-master\BeStyle.Admin-master\BeStyle\BeStyle.Sql\obj\Debug\BeStyle.Sql.csprojResolveAssemblyReference.cache
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Sql\obj\Debug\BeStyle.Sql.csprojResolveAssemblyReference.cache

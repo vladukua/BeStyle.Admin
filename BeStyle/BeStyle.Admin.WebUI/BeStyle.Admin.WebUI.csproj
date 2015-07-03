@@ -38,6 +38,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BeStyle.Entities">
+      <HintPath>..\BeStyle.Entities\bin\Debug\BeStyle.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="BeStyle.Repositories">
+      <HintPath>..\BeStyle.Repositories\bin\Debug\BeStyle.Repositories.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="RoleBasedFormAuthentication">
       <HintPath>Libs\RoleBasedFormAuthentication.dll</HintPath>

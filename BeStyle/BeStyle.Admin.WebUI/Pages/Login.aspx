@@ -5,6 +5,7 @@
 <asp:Content ID="ctnBody" ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
     <div id="log">
         <asp:Login ID="lgnLogin" runat="server" BackColor="White" BorderColor="#CCCC00" BorderPadding="2" BorderStyle="Inset"
-                   DisplayRememberMe="False" UserNameLabelText="Admin Name:" CssClass="log" OnLoggingIn="lgnLogin_OnLoggingIn"/>
+                   DisplayRememberMe="False" UserNameLabelText="Admin Name:" CssClass="log" OnLoggingIn="lgnLogin_OnLoggingIn"
+                    InstructionText="Type your Login/Email and Password below;"/>
     </div>  
 </asp:Content>

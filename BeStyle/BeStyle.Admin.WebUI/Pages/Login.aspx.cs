@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -8,6 +9,7 @@ using System.Web.Security;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using BeStyle.Admin.WebUI.Code.Roles;
+using BeStyle.Repositories.Sql;
 
 namespace BeStyle.Admin.WebUI.Pages
 {
@@ -31,14 +33,28 @@ namespace BeStyle.Admin.WebUI.Pages
             {
                 return;
             }
-
-            var userName = "volodia";
-            var password = "volodia";
-
-            if (lgnLogin.UserName == userName && lgnLogin.Password == password)
+            var connStr = ConfigurationManager.ConnectionStrings["BeStyleDBConnectionString"].ConnectionString;
+            var repository = new BeStyleRepository(connStr);
+            var user = repository.GetUserByLogin(lgnLogin.UserName);
+            if (user == null)
             {
-                FormsAuthenticationUtil.RedirectFromLoginPage(lgnLogin.UserName, AdminRoles.Master, true);
-                // FormsAuthentication.RedirectFromLoginPage(lgnLogin.UserName, true);
+                user = repository.GetUserByEmail(lgnLogin.UserName);
+                if (user == null)
+                {
+                    // bad login
+                    //lgnLogin.FailureText = "Bad user name.";
+                    return;
+                }
+            }
+
+            if (lgnLogin.Password == user.Password)
+            {
+                FormsAuthenticationUtil.RedirectFromLoginPage(user.Login, user.Role, true);
+            }
+            else
+            {
+                //lgnLogin.FailureText = "Invalid password.";
+                // bad password
             }
         }
 

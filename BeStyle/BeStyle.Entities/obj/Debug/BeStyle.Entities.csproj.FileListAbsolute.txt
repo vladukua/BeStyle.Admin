@@ -1,0 +1,5 @@
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Entities\bin\Debug\BeStyle.Entities.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Entities\bin\Debug\BeStyle.Entities.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Entities\obj\Debug\BeStyle.Entities.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Entities\obj\Debug\BeStyle.Entities.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Entities\obj\Debug\BeStyle.Entities.csprojResolveAssemblyReference.cache

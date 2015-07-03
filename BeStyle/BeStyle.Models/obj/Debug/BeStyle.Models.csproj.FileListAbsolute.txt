@@ -1,4 +1,0 @@
-G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Models\bin\Debug\BeStyle.Models.dll
-G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Models\bin\Debug\BeStyle.Models.pdb
-G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Models\obj\Debug\BeStyle.Models.dll
-G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Models\obj\Debug\BeStyle.Models.pdb

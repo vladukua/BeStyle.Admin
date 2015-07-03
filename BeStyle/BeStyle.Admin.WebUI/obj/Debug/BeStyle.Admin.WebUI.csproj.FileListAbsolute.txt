@@ -16,3 +16,8 @@ G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.
 G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\RoleBasedFormAuthentication.dll
 G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.dll
 G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Entities.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Repositories.dll
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Entities.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\bin\BeStyle.Repositories.pdb
+G:\epam\voytyshyn-be-style-11aebfe3f3b5\voytyshyn-be-style-11aebfe3f3b5\BeStyle.Admin.WebUI\obj\Debug\BeStyle.Admin.WebUI.csprojResolveAssemblyReference.cache

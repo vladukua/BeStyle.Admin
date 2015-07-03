@@ -6,47 +6,26 @@ GO
 	USE BeStyleDB;
 GO
 
-
 BEGIN
 	CREATE TABLE tblUser
-		(	
-			Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-			FirstName NVARCHAR(50) NOT NULL,
-			LastName NVARCHAR(50) NOT NULL,
-			Email NVARCHAR(50) NOT NULL UNIQUE,
-			Phone NVARCHAR(50)			
-		);
+	(	
+		Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+		FirstName NVARCHAR(50) NOT NULL,
+		LastName NVARCHAR(50) NOT NULL,
+		Email NVARCHAR(50) NOT NULL UNIQUE,
+		Phone NVARCHAR(50),
+		Login NVARCHAR(50) NOT NULL UNIQUE,
+		Password NVARCHAR(50) NOT NULL,			
+	);
 END;
 
 BEGIN
-	CREATE TABLE tblUserCredential
+	CREATE TABLE tblUserRole
 	(
 		Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 		UserId INT NOT NULL,
-		Login NVARCHAR(50) NOT NULL UNIQUE,
-		Password NVARCHAR(50) NOT NULL,
-		CONSTRAINT FK_tblUserCredential_tblUserId FOREIGN KEY (UserId) REFERENCES tblUser(Id)		
-	);
-END;	
-
-BEGIN
-		CREATE TABLE tblAdmin
-		(
-			Id  INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-			FirstName NVARCHAR(50) NOT NULL,
-			LastName NVARCHAR(50) NOT NULL,
-			Email NVARCHAR(50) NOT NULL UNIQUE,
-			Phone NVARCHAR(50)			
-		);
-END;
-
-BEGIN
-	CREATE TABLE tblAdminCredential
-	(
-		Id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-		AdminId INT NOT NULL,
-		Login NVARCHAR(50) NOT NULL UNIQUE,
-		Password NVARCHAR(50) NOT NULL,
-		CONSTRAINT FK_tblAdminCredential_tblAdminId FOREIGN KEY (AdminId) REFERENCES tblAdmin(Id),
+		Role NVARCHAR(50) NOT NULL,
+		CONSTRAINT CK_Role CHECK (Role='Master' OR Role='Moderator' OR Role='Editor' OR Role='User'),
+		CONSTRAINT FK_tblUserRole_tblUser FOREIGN KEY (UserId) REFERENCES tblUser(Id)		
 	);
 END;
